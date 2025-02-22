@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon HTML error: a missing closing tag for the <title> element.  While many HTML errors are readily caught by validators, a missing </title> might sometimes go unnoticed, leading to unpredictable behavior across different browsers.  The bug.html file shows the error; the bugSolution.html file provides a corrected version.
